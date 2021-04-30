@@ -1,0 +1,34 @@
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.deps.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.runtimeconfig.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.runtimeconfig.dev.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.dll
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.pdb
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.csprojAssemblyReference.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.AssemblyInfoInputs.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.AssemblyInfo.cs
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.csproj.CoreCompileInputs.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.RazorAssemblyInfo.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.RazorAssemblyInfo.cs
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.RazorTargetAssemblyInfo.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.dll
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.pdb
+C:\Users\wanderson\OneDrive\Área de Trabalho\Nova pasta\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.genruntimeconfig.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.deps.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.runtimeconfig.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.runtimeconfig.dev.json
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.dll
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\bin\Debug\netcoreapp2.2\WebPizza.pdb
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.csprojAssemblyReference.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.AssemblyInfoInputs.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.AssemblyInfo.cs
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.csproj.CoreCompileInputs.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.RazorAssemblyInfo.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.RazorAssemblyInfo.cs
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.RazorTargetAssemblyInfo.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.dll
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.pdb
+C:\Users\wanderson\OneDrive\Área de Trabalho\WebPizza\obj\Debug\netcoreapp2.2\WebPizza.genruntimeconfig.cache
