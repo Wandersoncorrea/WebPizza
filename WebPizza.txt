@@ -1,0 +1,109 @@
+----Server=localhost\SQLEXPRESS02;Database=master;Trusted_Connection=True;
+
+-- banco da pizzaria para api
+--CREATE DATABASE PizzariaApi
+--GO
+
+--USE PizzariaApi
+--GO
+
+----tabela para os cliente
+--CREATE TABLE clientes (
+--id INT IDENTITY PRIMARY KEY,
+--nome VARCHAR(100) NOT NULL,
+--celular VARCHAR(20) NOT NULL,
+--cpf VARCHAR(30) NOT NULL,
+--dataCadastro DATETIME NOT NULL)
+--GO
+
+----tabela independente para os endereços dos clientes
+--CREATE TABLE endereco (
+--id INT IDENTITY PRIMARY KEY,
+--id_cliente int not null,
+--cep VARCHAR(15) NOT NULL,
+--rua VARCHAR(100) NOT NULL,
+--numero VARCHAR(10) NOT NULL,
+--bairro VARCHAR(100) NOT NULL,
+--cidade VARCHAR(100) NOT NULL,
+--complemento VARCHAR(250) NOT NULL,
+--pontoreferencia VARCHAR(250) NOT NULL
+--)
+--GO
+---- tabela para as bebidas
+--create table bebida(
+--id INT IDENTITY PRIMARY KEY,
+--descricao varchar(100) not null,
+--tamanho varchar(10) not null,
+--valor decimal(5,2) not null,
+--dataCadastro DATETIME NOT NULl
+--)
+--go
+----tabela para pizzas
+--create table pizza(
+--id INT IDENTITY PRIMARY KEY,
+--descricao varchar(100) not null,
+--tamanho varchar(10) not null,
+--ingredientes varchar(10) not null,
+--valor decimal(5,2) not null,
+--dataCadastro DATETIME NOT NULL
+--)
+--go
+
+----tabela dos pedidos
+--create table pedido
+--(
+-- id int  IDENTITY primary key,
+-- descricao varchar(100),
+-- numero int not null,
+-- id_cliente int not null,
+-- desconto   decimal(5,2),
+-- frete      decimal(5,2),
+-- valor      decimal(5,2)
+--)
+--go
+
+create table intens_pedido
+(
+  id_item_pedido int IDENTITY primary key,--id na tabela
+  id_item int not null, --id do intem
+  id_pedido int not null,  --id do pedido
+  tipo int,-- 1 = pizza 0 = bebida
+  observacao varchar(250),
+  quantidade int not null,
+  valor decimal(5,2),
+  desconto decimal(5,2),
+)
+go
+
+
+
+--INSERT INTO livros (titulo, autor, isbn, edicao, editora, anoPublicacao, qtdePaginas, genero, idioma, quantidade) 
+--VALUES ('orgulho e preconceito', 'jane austen', 978-8544001820, 'luxo', 'martin claret', 2018, 424, 'romance', 2);
+--INSERT INTO intens_pedido(id_item, id_pedido,tipo,observacao, quantidade, desconto )values();
+--DELETE FROM intens_pedido WHERE id_pedido = 1;
+
+insert into clientes(nome,celular,cpf,dataCadastro)values
+                    ('jose','987754321','123456789100',2020-1-12),
+                    ('maria','986654321','123456789120',2020-1-12),
+			        ('gustavo','887654321','123456789122',2020-10-12),
+					('juliet','987664321','123456789133',2021-1-1),
+					('dani','987654333','123456789111',2021-2-1)
+
+go
+SELECT * FROM clientes
+go
+
+insert into endereco(id_cliente,cep,rua,numero,bairro,cidade,complemento,pontoreferencia)values
+                    (1 ,'1234567','america','10','vazea','teresopolis','apt 2','em frente ao açougue' ),
+					(2 ,'1234567','america','100','vazea','teresopolis','apt 25','em frente ao colegio' ),
+					(5 ,'1234567','silva e lima','55','alto','teresopolis','apt 32','perto da ponte' ),
+					(3 ,'1234567','prefeito albert','77','vazea','teresopolis','portao amarelo','em frente ao açougue' ),
+                    (4 ,'1234567','america','11','vazea','teresopolis','casa 1','ao lado do açougue' ),
+					(4 ,'1234567','corrego belo','50','vargem grande','teresopolis','apt 2','em frente ao açougue' )
+
+go
+SELECT * FROM endereco
+go
+
+
+
