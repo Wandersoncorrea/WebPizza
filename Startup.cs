@@ -48,8 +48,8 @@ namespace WebPizza
             
             var connectionString = @"Data Source=DESKTOP-BFGEAHA\SQLEXPRESS03;
                                      Initial Catalog=PizzariaApi;
-                                     User Id=DESKTOP-BFGEAHA\wanderson;
-                                     Password=151209;";
+                                     User Id=sa;
+                                     Password=123456;";
 
             IClienteDAO clienteDAO = new ClienteDAO(connectionString);
             var repositorioCliente = new ClienteRepositorio(clienteDAO);
